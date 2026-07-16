@@ -25,7 +25,7 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-Follow_me-6A0DAD?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dcauazinxd/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow_me-8FD9F5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dcauazinxd/)
 ---
 </div>
 
